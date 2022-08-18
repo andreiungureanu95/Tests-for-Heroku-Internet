@@ -15,16 +15,16 @@ PyCharm
  
  **Pages tested so far:**
  
-Add/Remove Elements
+ - Add/Remove Elements
 
-Basic Auth (user and pass: admin)
+- Basic Auth (user and pass: admin)
 
-Broken Images
+- Broken Images
 
-Checkboxes
+- Checkboxes
 
-Context Menu
+- Context Menu
 
-Disappearing Elements
+- Disappearing Elements
 
-Form Authentication
+- Form Authentication
