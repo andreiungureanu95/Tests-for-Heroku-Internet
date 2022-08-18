@@ -4,13 +4,13 @@ Automated tests for: https://the-internet.herokuapp.com/  💡 In this repositor
 
 In this repository you will find automated tests using technology like:
 
-Python
+- Python
 
-Selenium Webdriver
+- Selenium Webdriver
 
-Unittest framework
+- Unittest framework
 
-PyCharm
+- PyCharm
  
  
  **Pages tested so far:**
